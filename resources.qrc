@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>xcursors/openzone-cursors/white-copy</file>
+    </qresource>
+</RCC>
